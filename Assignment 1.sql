@@ -1,3 +1,8 @@
+/**
+Developer: Lola Ajayi
+Date: March 6th, 2025
+**/
+
 use EmadeDev
 go
 
@@ -8,7 +13,7 @@ from Noble
 -- Show the year 1962
 select *
 from Noble
-where Year = '1962'
+where Year = '1963'
 
 -- Show where the subject is medicine
 select *
