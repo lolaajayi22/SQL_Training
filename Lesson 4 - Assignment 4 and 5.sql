@@ -2,7 +2,7 @@
 Developer: Lola Ajayi
 Date: March 24th, 2025
 Lesson 4 - Assignment 4 & 5
-/** Data flow (case statement)
+Data flow (case statement)
 If the year is 2000, show as good
 If the year is 2004, 2008 show as better 
 If the year is below 2024 and above 2008 show as best
